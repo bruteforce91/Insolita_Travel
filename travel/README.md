@@ -1,4 +1,4 @@
-### non completa
+### non completa- alcune pagine sono ancora statiche
 
 # Getting Started with Create React App
 
