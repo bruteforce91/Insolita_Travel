@@ -1,0 +1,32 @@
+.card-bodyContatti{
+  display: flex;
+  flex-direction: row;
+}
+  
+.card p {
+  font-size: 1rem; /*era .6rem*/
+  margin: 0;
+}
+
+#name {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+#frase, #phone, #email{
+  font-size: .7rem;
+}
+
+#imageCard{
+  object-fit: cover;
+  width: 130px;
+  height: 130px;
+}
+
+#logoContact{
+  width: 5rem;
+}
+
+.p-contact p{
+  font-size: .9rem;
+}

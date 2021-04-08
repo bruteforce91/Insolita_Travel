@@ -1,0 +1,63 @@
+#accordionTariffe{
+  max-width: 80vw;
+  margin: 0 auto;
+}
+
+.card-header button{
+  padding: 0;
+  margin: 0;
+}
+
+.card-header p{
+  font-weight: bold;
+}
+
+.btn.focus, .btn:focus {
+  box-shadow: 0 0 0 0.2rem transparent;
+}
+
+.card-bodyTariffe{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid silver;
+    margin: 0 3rem;
+    padding: 2rem 0;
+}
+
+.card-bodyTotale{
+  margin: 0 3rem;
+  padding: 2rem 0;
+}
+
+.tipologia, .prezzi, .prezzoTotale{
+  padding: 0;
+}
+
+.tipologia p, .prezzi p, #textTotale{
+    font-size: 1rem;
+    color: silver;
+  }
+  
+  .prezzi p, #textTotale, #totale{
+    text-align: end;
+  }
+  
+  #textTotale{
+    font-weight: bold;
+  }
+
+  #totale{
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: rgb(250, 204, 0);
+  }
+
+  .comprendeTitle{
+    font-size: 1.2rem !important;
+    color: rgb(250, 204, 0);
+    padding-bottom: .5rem;
+  }
+
+  .comprendePar{
+    font-size: .8rem !important;
+  }
