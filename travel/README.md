@@ -1,3 +1,5 @@
+### non completa
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -22,3 +24,9 @@ Il progetto prevede:
 * Card Logic Tappe: component che gestisce i dati e il flusso delle Card Tappe
 
 ![image](https://user-images.githubusercontent.com/48923975/114031666-e082cd00-987b-11eb-8b6d-f0df7907c34b.png)
+
+### Immagini del progetto
+
+![image](https://user-images.githubusercontent.com/48923975/114032042-3bb4bf80-987c-11eb-94bc-ea816367937d.png)
+![image](https://user-images.githubusercontent.com/48923975/114032368-89312c80-987c-11eb-8ca2-4bf905afefcc.png)
+![image](https://user-images.githubusercontent.com/48923975/114032602-c1386f80-987c-11eb-870f-263a6cc1f959.png)
